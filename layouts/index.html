@@ -1,7 +1,4 @@
 {{ define "main" }}
-  <div class="terminal-nav">
-    {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-  </div>
   <div class="time-list">
     <ul>
       {{ range where site.RegularPages "Section" "posts" }}
