@@ -1,0 +1,50 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "body",
+      "div",
+      "em",
+      "footer",
+      "h1",
+      "h2",
+      "head",
+      "header",
+      "html",
+      "li",
+      "link",
+      "main",
+      "meta",
+      "nav",
+      "ol",
+      "p",
+      "path",
+      "script",
+      "span",
+      "strong",
+      "svg",
+      "time",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "back-link",
+      "back-nav",
+      "comments",
+      "current",
+      "path-nav",
+      "skip-link",
+      "terminal-nav",
+      "terms-list",
+      "time",
+      "time-list",
+      "toc",
+      "toc-content"
+    ],
+    "ids": [
+      "TableOfContents",
+      "levels-of-a-problem",
+      "main-content"
+    ]
+  }
+}

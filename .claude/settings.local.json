@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"D:\\\\projects\\\\varunj\" branch -a)",
+      "Bash(dir:*)",
+      "Bash(cmd /c \"dir D:\\\\projects\\\\varunj\")",
+      "WebFetch(domain:github.com)"
+    ]
+  }
+}
